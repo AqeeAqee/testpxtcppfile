@@ -12,7 +12,8 @@
         "test.cpp",
         "test.h",
         "README.md",
-        "shims.d.ts"
+        "shims.d.ts",
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
