@@ -10,7 +10,9 @@
         "main.blocks",
         "main.ts",
         "test.cpp",
-        "README.md"
+        "README.md",
+        "enums.d.ts",
+        "shims.d.ts"
     ],
     "testFiles": [
         "test.ts"
