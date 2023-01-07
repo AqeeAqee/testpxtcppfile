@@ -2,7 +2,8 @@
 namespace testCpp{
     
     //%
-    int add1(int a, int b){
-        return a+b
+    int8_t add(int8_t a, int8_t b){
+        return a+b;
     }
-}
+} 
+

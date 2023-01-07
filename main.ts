@@ -5,5 +5,4 @@ basic.forever(function () {
 
 //% shim=testCpp::add
 function add(a:number,b:number){
-    
 }
